@@ -1,0 +1,1 @@
+print("hello my name is keertika and i am not a pedo")
